@@ -3,5 +3,5 @@ My goal for this month is to learn the basics of GIT , and for this journey I've
 
 In the first session , I learned what's the difference between Git and GitHub , how to create a public repository in my a GutHub account and the difference between public and private repository .
 In today's session I learned how to configure git for windows , how to clone a repository into my local machine using the clone git command , and how to get the latest changes from GitHub repository into my local machine 
-In the next session , I'll learn to commit changes made on my local machine to the github repository. 
+In the next session , I'll learn how to commit changes made on my local machine to the github repository. 
 #ThankYou , #Mr.Venkat.
